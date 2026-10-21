@@ -1,5 +1,5 @@
 // Mis quincenas: funciona sin internet después de la primera carga
-const CACHE = 'mis-quincenas-v1';
+const CACHE = 'mis-quincenas-v2';
 const SHELL = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png',
   './icons/apple-touch-icon.png', './icons/favicon-32.png'];

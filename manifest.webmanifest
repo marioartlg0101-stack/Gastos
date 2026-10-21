@@ -1,4 +1,5 @@
 {
+  "id": "mis-quincenas",
   "name": "Mis quincenas",
   "short_name": "Quincenas",
   "description": "Control de ingresos quincenales, gastos y pagos de tarjetas.",
